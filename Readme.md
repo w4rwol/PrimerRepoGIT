@@ -56,6 +56,7 @@ Por último, elegimos la ruta en la que la `Imagen ISO` se va a guardar:
 ![](./img/img07.png)
 
 Esperamos a que se descargue:
+
 ![](./img/img08.png)
 
 
