@@ -20,11 +20,14 @@ Descargada de este enlace:  [pincha aquí](https://www.microsoft.com/es-es/softw
 Al iniciar el programa `MediaCreationTool22H2`
 
 Aparece el siguiente asistente:
+
 ![](./img/img02.png)
+
 
 ## Paso 3
 
 El siguiente paso es aceptar el acuerdo de licencia:
+
 ![](./img/img03.png)
 
 
@@ -32,6 +35,7 @@ El siguiente paso es aceptar el acuerdo de licencia:
 ## Paso 4
 
 Después, el instalador nos dará las siguientes opciones, de las cuales elegimos `Crear medios de instalación`:
+
 ![](./img/img04.png)
 
 
@@ -39,6 +43,7 @@ Después, el instalador nos dará las siguientes opciones, de las cuales elegimo
 ## Paso 5
 
 Configuramos los parámetros del Sistema Operativo:
+
 ![](./img/img05.png)
 
 
@@ -46,6 +51,7 @@ Configuramos los parámetros del Sistema Operativo:
 ## Paso 6
 
 Elegimos el medio para instalar el Sistema Operativo, en nuestro caso una `Imagen ISO`:
+
 ![](./img/img06.png)
 
 
@@ -53,7 +59,9 @@ Elegimos el medio para instalar el Sistema Operativo, en nuestro caso una `Image
 ## Paso 7
 
 Por último, elegimos la ruta en la que la `Imagen ISO` se va a guardar:
+
 ![](./img/img07.png)
+
 
 Esperamos a que se descargue:
 
@@ -64,7 +72,9 @@ Esperamos a que se descargue:
 ## Paso 8
 
 Por último, ya tenemos la `Imagen ISO` guardada:
+
 ![](./img/img09.png)
+
 Hasta aquí, la creación del `Fichero ISO`.
 Ya podemos montarla en virtualBox para crear nuestra maquina virtual de `Windows 10`.
 
@@ -76,6 +86,7 @@ Ya podemos montarla en virtualBox para crear nuestra maquina virtual de `Windows
 # Instalando Windows 10 en Virtual Box
 
 Abrimos Virtual Box, vamos a Máquina > Nueva (Ctrl+N), y montamos la `imagen ISO` de Windows 10 que hemos descargado previamente.
+
 ![](./img/img01W10VB.PNG)
 
 
