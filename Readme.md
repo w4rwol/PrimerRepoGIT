@@ -11,7 +11,7 @@ Descargamos el fichero ISO de la herramienta
 
 Descargada de este enlace:  [pincha aquí](https://www.microsoft.com/es-es/software-download/windows10)
 
-![](./PrimerRepoGIT/img/img01.png)
+![](./img/PrimerRepoGIT/img/img01.png)
 
 
 
